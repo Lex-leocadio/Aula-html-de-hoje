@@ -1,0 +1,16 @@
+.all{
+    display: flex;
+}
+.p{
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+.backgroundazul{
+    background-color: blue;
+    color: white;
+}
+.backgroundverde{
+    background-color: green;
+    color: white;
+}
